@@ -30,18 +30,6 @@ The Amazon Fine Food Reviews dataset consists of 568,454 food reviews. This data
     Text - text of the review
 </pre>
 
-## EDA Objective
-
-Analysing the data & plot the required graphs to show that these conclusions are true:
-<pre>
-a. Positive reviews are very common.
-b. Positive reviews are shorter.
-c. Longer reviews are more helpful.
-d. Despite being more common and shorter, positive reviews are found more helpful.
-e. Frequent reviewers are more discerning in their ratings, write longer reviews, and write more helpful reviews
-</pre>
-
-
 ## Model Building
 <pre>
     STEP-1: Copy the data in Pandas DataFrame and drop unwanted columns.
